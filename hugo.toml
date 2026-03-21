@@ -1,0 +1,12 @@
+baseURL = 'https://cococat.github.io/'
+languageCode = 'zh-cn'
+title = 'cococat的极速博客'
+theme = 'PaperMod'
+
+enableInlineShortcodes = true
+enableEmoji = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowToc = true
