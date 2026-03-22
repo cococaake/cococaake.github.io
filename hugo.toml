@@ -1,6 +1,6 @@
 baseURL = 'https://cococat.github.io/'
 languageCode = 'zh-cn'
-title = 'cococat的极速博客'
+title = 'cococat Blog'
 theme = 'PaperMod'
 
 enableInlineShortcodes = true

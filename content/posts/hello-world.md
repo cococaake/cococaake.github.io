@@ -1,6 +1,13 @@
 +++
 date = '2026-03-21T13:40:28+08:00'
 draft = true
-title = 'Cococat Hello World'
+title = 'Agent常见模式总结(部署测试)'
 +++
+
+# 类别
+## 反射式
+- 
+
+# 实践
+
 
